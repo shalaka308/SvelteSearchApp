@@ -27,11 +27,7 @@
     <div class="row d-flex justify-content-center">
       <div class="col-12 text-center">
         <div class="logo m-5 position-relative">
-          <img
-            src="/images/logo-white-bg.png"
-            alt="logo"
-            class="mb-5"
-          />
+         
           <div class="text-center mb-5">
           <Search />
           <Tabs />
